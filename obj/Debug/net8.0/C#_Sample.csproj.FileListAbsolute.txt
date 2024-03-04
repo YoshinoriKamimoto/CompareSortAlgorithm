@@ -1,0 +1,14 @@
+C:\Users\ykwo0\OneDrive\デスクトップ\プログラミング\学習\C#_Sample\bin\Debug\net8.0\C#_Sample.exe
+C:\Users\ykwo0\OneDrive\デスクトップ\プログラミング\学習\C#_Sample\bin\Debug\net8.0\C#_Sample.deps.json
+C:\Users\ykwo0\OneDrive\デスクトップ\プログラミング\学習\C#_Sample\bin\Debug\net8.0\C#_Sample.runtimeconfig.json
+C:\Users\ykwo0\OneDrive\デスクトップ\プログラミング\学習\C#_Sample\bin\Debug\net8.0\C#_Sample.dll
+C:\Users\ykwo0\OneDrive\デスクトップ\プログラミング\学習\C#_Sample\bin\Debug\net8.0\C#_Sample.pdb
+C:\Users\ykwo0\OneDrive\デスクトップ\プログラミング\学習\C#_Sample\obj\Debug\net8.0\C#_Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ykwo0\OneDrive\デスクトップ\プログラミング\学習\C#_Sample\obj\Debug\net8.0\C#_Sample.AssemblyInfoInputs.cache
+C:\Users\ykwo0\OneDrive\デスクトップ\プログラミング\学習\C#_Sample\obj\Debug\net8.0\C#_Sample.AssemblyInfo.cs
+C:\Users\ykwo0\OneDrive\デスクトップ\プログラミング\学習\C#_Sample\obj\Debug\net8.0\C#_Sample.csproj.CoreCompileInputs.cache
+C:\Users\ykwo0\OneDrive\デスクトップ\プログラミング\学習\C#_Sample\obj\Debug\net8.0\C#_Sample.dll
+C:\Users\ykwo0\OneDrive\デスクトップ\プログラミング\学習\C#_Sample\obj\Debug\net8.0\refint\C#_Sample.dll
+C:\Users\ykwo0\OneDrive\デスクトップ\プログラミング\学習\C#_Sample\obj\Debug\net8.0\C#_Sample.pdb
+C:\Users\ykwo0\OneDrive\デスクトップ\プログラミング\学習\C#_Sample\obj\Debug\net8.0\C#_Sample.genruntimeconfig.cache
+C:\Users\ykwo0\OneDrive\デスクトップ\プログラミング\学習\C#_Sample\obj\Debug\net8.0\ref\C#_Sample.dll
